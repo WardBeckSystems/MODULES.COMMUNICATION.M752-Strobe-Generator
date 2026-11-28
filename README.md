@@ -1,6 +1,6 @@
 # M752 Strobe Generator · Communication
 
-Ward-Beck Systems M752, 1971|4. Wiki page: [M752 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M752.html)
+Ward-Beck Systems M752, 1971|4. Wiki page: [M752 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M752-Strobe-Generator/)
 
 | Folder | What is in it | Files |
 |---|---|---|

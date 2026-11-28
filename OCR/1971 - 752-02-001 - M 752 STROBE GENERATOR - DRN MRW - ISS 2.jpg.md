@@ -1,5 +1,5 @@
 # 1971 - 752-02-001 - M 752 STROBE GENERATOR - DRN MRW - ISS 2.jpg
-Wiki page: [M752](../../../../PAGES/M752.md)
+Wiki page: [M752](../)
 
 
 - **Year:** 1971 (title block date)
